@@ -219,11 +219,11 @@ src
 Deve-se criar um arquivo .env na raiz do projeto contendo as variáveis:
 | Variável | Descrição                 | Exemplo         |
 | --- |---------------------------|-----------------|
-| `DB_USER` | Usuário do servidor atals | `usuari123`     |
-| `DB_USER` | Usuário do servidor atals | `usuari123`     |
-| `DB_USER` | Usuário do servidor atals | `usuari123`     |
-| `DB_USER` | Usuário do servidor atals | `usuari123`     |
-| `DB_USER` | Usuário do servidor atals | `usuari123`     |
+| `DATA_BASE_URL` | Usuário da base de dados | `usuari123`     |
+| `USER_NAME` | Usuário da base de dados | `usuario`     |
+| `PASSWORD` | password | `usuari123`     |
+| `CLASS_NAME` | Class namo do tipo da base de dados | `org.postgresql.Driver`     |
+| `HIBERNATE_DIALECT` | dialect do tipo da base de dados | `org.hibernate.dialect.PostgreSQLDialect`     |
 
 ## ▶️ Como Executar o Projeto
 
