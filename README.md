@@ -226,9 +226,6 @@ Deve-se criar um arquivo .env na raiz do projeto contendo as variáveis:
 | `CLASS_NAME` | Class name do tipo da base de dados | `org.postgresql.Driver`     |
 | `HIBERNATE_DIALECT` | dialect do tipo da base de dados | `org.hibernate.dialect.PostgreSQLDialect`     |
 
-
-PORT_SERVER
-
 ## ▶️ Como Executar o Projeto
 
 Para executar o projeto localmente, siga as etapas abaixo:
