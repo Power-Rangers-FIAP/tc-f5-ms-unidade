@@ -220,6 +220,10 @@ Deve-se criar um arquivo .env na raiz do projeto contendo as variáveis:
 | Variável | Descrição                 | Exemplo         |
 | --- |---------------------------|-----------------|
 | `DB_USER` | Usuário do servidor atals | `usuari123`     |
+| `DB_USER` | Usuário do servidor atals | `usuari123`     |
+| `DB_USER` | Usuário do servidor atals | `usuari123`     |
+| `DB_USER` | Usuário do servidor atals | `usuari123`     |
+| `DB_USER` | Usuário do servidor atals | `usuari123`     |
 
 ## ▶️ Como Executar o Projeto
 
